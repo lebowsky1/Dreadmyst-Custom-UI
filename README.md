@@ -43,7 +43,7 @@ DONE --- EDITING THE BELOW
 <details>
 <summary>🎒 Inventory</summary>
 <blockquote>
-(Images coming soon...)
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/Dreadmyst_zJ9oGsSx5h.png?raw=true" width="400" alt="Inventory">
 </blockquote>
 </details>
 </blockquote>
