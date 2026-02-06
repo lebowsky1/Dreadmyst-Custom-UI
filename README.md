@@ -37,7 +37,7 @@ DONE --- EDITING THE BELOW
 <details>
 <summary>⚔️ Abilities Panel</summary>
 <blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/Dreadmyst_HYCe52E4GU.png?raw=true" width="400" alt="Abilities Panel">
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/images/Dreadmyst_HYCe52E4GU-removebg-preview.png" width="400" alt="Abilities Panel"> 
 </blockquote>
 </details>
 <details>
