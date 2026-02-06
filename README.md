@@ -31,7 +31,7 @@ DONE --- EDITING THE BELOW
 <details>
 <summary>👤 Character Panel</summary>
 <blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/CharacterPanel.png" width="400" alt="Character Panel">
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/images/photoshop_LYUqLWxgez-removebg-preview.png" width="400" alt="Character Panel">
 </blockquote>
 </details>
 <details>
@@ -43,7 +43,7 @@ DONE --- EDITING THE BELOW
 <details>
 <summary>🎒 Inventory</summary>
 <blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/Dreadmyst_zJ9oGsSx5h.png?raw=true" width="400" alt="Inventory">
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/Dreadmyst_zJ9oGsSx5h.png?raw=true" width="800" alt="Inventory">
 </blockquote>
 </details>
 </blockquote>
