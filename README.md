@@ -28,7 +28,9 @@ DONE --- EDITING THE BELOW
 <details>
 <summary><h2>👀 PREVIEW</h2></summary>
 <blockquote>
+
 <h6>NOTE: These images are screenshots from in-game, the UI is slightly transparent.</h6>
+
 <details>
 <summary>👤 Character Panel</summary>
 <blockquote>
@@ -42,9 +44,15 @@ DONE --- EDITING THE BELOW
 </blockquote>
 </details>
 <details>
+<summary>🛠️ Toolbar Icons</summary>
+<blockquote>
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/Toolbars.png?raw=true" width="300" alt="Toolbars">
+</blockquote>
+</details>
+<details>
 <summary>🛡️ Guild Roster</summary>
 <blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/GuildRoster.png?raw=true" width="400" alt="Guild Roster">
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/GuildRoster.png?raw=true" width="800" alt="Guild Roster">
 </blockquote>
 </details>
 </blockquote>
