@@ -31,13 +31,7 @@ DONE --- EDITING THE BELOW
 <details>
 <summary>👤 Character Panel</summary>
 <blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/images/photoshop_LYUqLWxgez-removebg-preview.png" width="400" alt="Character Panel">
-</blockquote>
-</details>
-<details>
-<summary>⚔️ Abilities Panel</summary>
-<blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/images/Dreadmyst_HYCe52E4GU-removebg-preview.png" width="400" alt="Abilities Panel"> 
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/images/CharacterPanels.png" width="800" alt="Character Panel">
 </blockquote>
 </details>
 <details>
