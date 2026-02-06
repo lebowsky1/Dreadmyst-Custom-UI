@@ -31,7 +31,7 @@ DONE --- EDITING THE BELOW
 <details>
 <summary>👤 Character Panel</summary>
 <blockquote>
-(Images coming soon...)
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/CharacterPanel.png" width="400" alt="Character Panel">
 </blockquote>
 </details>
 <details>
