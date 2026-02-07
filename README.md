@@ -1,7 +1,3 @@
-<div align="center">
-
-
-
 # Dreadmyst Custom UI
 
 A custom user interface for the game Dreadmyst, made by lebowsky.
@@ -11,9 +7,6 @@ A custom user interface for the game Dreadmyst, made by lebowsky.
 
 <img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/Dreadmyst_ioeUXSHGKA.jpg" width="960" alt="Dreadmyst UI">
 
-
-
-</div>
 
 
 
@@ -44,15 +37,15 @@ DONE --- EDITING THE BELOW
 </blockquote>
 </details>
 <details>
-<summary>🛠️ Toolbar Icons</summary>
+<summary>🛠️ Toolbar</summary>
 <blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/Toolbars.png?raw=true" width="300" alt="Toolbars">
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/images/Toolbar.png" width="800" alt="Toolbars">
 </blockquote>
 </details>
 <details>
 <summary>🛡️ Guild Roster</summary>
 <blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/GuildRoster.png?raw=true" width="800" alt="Guild Roster">
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/GuildRoster.png?raw=true" width="400" alt="Guild Roster">
 </blockquote>
 </details>
 </blockquote>
