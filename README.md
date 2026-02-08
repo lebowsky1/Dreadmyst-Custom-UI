@@ -14,7 +14,7 @@ A custom user interface for the game Dreadmyst, made by lebowsky.
 
 
 
-DONE --- EDITING THE BELOW
+
 
 
 
@@ -40,12 +40,6 @@ DONE --- EDITING THE BELOW
 <summary>🛠️ Toolbar</summary>
 <blockquote>
 <img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/images/Toolbar.png" width="800" alt="Toolbars">
-</blockquote>
-</details>
-<details>
-<summary>🛡️ Guild Roster</summary>
-<blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/GuildRoster.png?raw=true" width="400" alt="Guild Roster">
 </blockquote>
 </details>
 </blockquote>
