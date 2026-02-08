@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lebowsky UI for Dreadmyst
+# Lebowsky's UI for Dreadmyst
 <br>
 
 <img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/images/FullscreenScreenshot.jpg" width="960" alt="Dreadmyst UI">
@@ -18,6 +18,13 @@
 <summary>👤 Character Panel</summary>
 <blockquote>
 <img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/CharacterPanels.png" width="800" alt="Character Panel">
+</blockquote>
+</details>
+
+<details>
+<summary>👥 Unit Frames</summary>
+<blockquote>
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/Unitframe.png?raw=true" width="800" alt="Unit Frames">
 </blockquote>
 </details>
 
@@ -44,8 +51,6 @@
 
 
 
-#
-
 ## ⚙️ Installation
 
 **Requirements:** [winrar](https://www.win-rar.com/download.html?&L=0) or another `.zip` extraction tool.
@@ -53,9 +58,7 @@
 1. Download the latest release from the [Releases](https://github.com/lebowsky1/Dreadmyst-Custom-UI/releases) page.
 
 2. Navigate to your Dreadmyst installation directory:
-   * On Steam, rightclick **Dreadmyst > Manage > Browse Local Files > Content folder.** 
-
-3. Open the `interface.zip` file.
+   * On Steam, rightclick **Dreadmyst > Manage > Browse Local Files > Content folder.** 3. Open the `interface.zip` file.
 
 4. Extract all files from `LebowskyUI.zip` into `interface.zip`
 
@@ -63,5 +66,4 @@
 
 #
 
-**Uninstall/Reset UI:** 
-   * On steam, rightclick Dreadmyst > Properties > Installed Files > Verify integrity of game files
+**Uninstall/Reset UI:** * On steam, rightclick Dreadmyst > Properties > Installed Files > Verify integrity of game files
