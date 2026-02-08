@@ -42,6 +42,12 @@ A custom user interface for the game Dreadmyst, made by lebowsky.
 <img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/images/Toolbar.png" width="800" alt="Toolbars">
 </blockquote>
 </details>
+<details>
+<summary>🧪 Transmute Recipe Overlay</summary>
+<blockquote>
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/Transmute.png?raw=true" width="800" alt="Transmute Recipe Overlay">
+</blockquote>
+</details>
 </blockquote>
 </details>
 
