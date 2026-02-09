@@ -65,7 +65,9 @@
 1. Download the latest release from the [Releases](https://github.com/lebowsky1/Dreadmyst-Custom-UI/releases) page.
 
 2. Navigate to your Dreadmyst installation directory:
-   * On Steam, rightclick **Dreadmyst > Manage > Browse Local Files > Content folder.** 3. Open the `interface.zip` file.
+   * On Steam, rightclick **Dreadmyst > Manage > Browse Local Files > Content folder.**
+   
+3. Open the `interface.zip` file.
 
 4. Extract all files from `LebowskyUI.zip` into `interface.zip`
 
