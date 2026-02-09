@@ -3,7 +3,7 @@
 # Lebowsky's UI for Dreadmyst
 <br>
 
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/images/FullscreenScreenshot.jpg" width="960" alt="Dreadmyst UI">
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/preview/FullscreenScreenshot.jpg" width="960" alt="Dreadmyst UI">
 
 </div>
 
@@ -17,42 +17,42 @@
 <details>
 <summary>👤 Character Panel</summary>
 <blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/CharacterPanels.png" width="800" alt="Character Panel">
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/preview/CharacterPanels.png" width="800" alt="Character Panel">
 </blockquote>
 </details>
 
 <details>
 <summary>👥 Unit Frames</summary>
 <blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/Unitframe.png?raw=true" width="800" alt="Unit Frames">
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/preview/UnitFrame.png?raw=true" width="800" alt="Unit Frames">
 </blockquote>
 </details>
 
 <details>
 <summary>🔮 Castbar</summary>
 <blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/images/castbar.png" width="400" alt="Castbar">
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/preview/castbar.png" width="400" alt="Castbar">
 </blockquote>
 </details>
 
 <details>
 <summary>🎒 Inventory</summary>
 <blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/Dreadmyst_zJ9oGsSx5h.png?raw=true" width="800" alt="Inventory">
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/preview/Inventory.png?raw=true" width="800" alt="Inventory">
 </blockquote>
 </details>
 
 <details>
 <summary>🛠️ Toolbar</summary>
 <blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/Toolbar.png?raw=true" width="800" alt="Toolbars">
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/preview/Toolbar.png?raw=true" width="800" alt="Toolbars">
 </blockquote>
 </details>
 
 <details>
 <summary>🧪 Transmute Recipe Overlay (optional)</summary>
 <blockquote>
-<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/Transmute.png?raw=true" width="800" alt="Transmute Recipe Overlay">
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/preview/Transmute.png?raw=true" width="800" alt="Transmute Recipe Overlay">
 </blockquote>
 </details>
 
