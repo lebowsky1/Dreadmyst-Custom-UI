@@ -29,6 +29,13 @@
 </details>
 
 <details>
+<summary>🔮 Castbar</summary>
+<blockquote>
+<img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/images/castbar.png" width="400" alt="Castbar">
+</blockquote>
+</details>
+
+<details>
 <summary>🎒 Inventory</summary>
 <blockquote>
 <img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/raw/main/images/Dreadmyst_zJ9oGsSx5h.png?raw=true" width="800" alt="Inventory">
