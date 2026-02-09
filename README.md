@@ -2,7 +2,7 @@
 
 # Lebowsky's UI for Dreadmyst
 <br>
-
+A completely new UI for Dreadmyst
 <img src="https://github.com/lebowsky1/Dreadmyst-Custom-UI/blob/main/images/FullscreenScreenshot.jpg" width="960" alt="Dreadmyst UI">
 
 </div>
