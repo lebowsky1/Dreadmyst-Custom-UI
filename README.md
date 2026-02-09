@@ -73,4 +73,4 @@
 
 #
 
-**Uninstall/Reset UI:** * On steam, rightclick Dreadmyst > Properties > Installed Files > Verify integrity of game files
+❌ **Uninstall/Reset UI:** * On steam, rightclick Dreadmyst > Properties > Installed Files > Verify integrity of game files
